@@ -1,3 +1,3 @@
 # FIAP-ON | Cursos
 
-### - Python
+- Python
