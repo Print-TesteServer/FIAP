@@ -1,3 +1,6 @@
-# FIAP-ON | Cursos
+# FIAP-ON
+- Alguns Cursos que estou fazendo ou fiz na FIAP
 
-- Python
+## Cursos
+- Python - Completo
+- Java Fundamentos - Cursando
